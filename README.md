@@ -1,11 +1,3 @@
-## 📘 Overview
-This repository contains the Jupyter notebook **`hw5.ipynb`**, which serves as the final homework assignment for **CPSC 330: Applied Machine Learning**.  
-The notebook integrates all key course concepts into a cohesive ML workflow — from **data preprocessing** and **feature engineering** to **model selection**, **hyperparameter tuning**, and **evaluation** on unseen test data.
-
-The assignment uses the **Default of Credit Card Clients** dataset to predict whether a customer will default on the next month’s payment, a canonical example of **imbalanced binary classification**.
-
----
-
 ## 🧩 Technical Summary
 
 ### 1. **Dataset**
@@ -106,4 +98,5 @@ A summary table reports cross-validated scores for all models:
 | SVM (RBF) | ~0.83 | ~0.39 | High variance, costly to tune |
 
 ---
+
 
